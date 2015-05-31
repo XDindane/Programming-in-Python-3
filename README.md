@@ -18,5 +18,7 @@ Publisher: Computer press a.s.
 
 ##Libraries
 http://pypi.python.org/pypi
+
 http://knihy.cpress.cz/k1747
+
 http://www.python.org
