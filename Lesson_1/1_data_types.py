@@ -1,4 +1,4 @@
-#!usr/bin/env python3
+#!/usr/bin/env python3
 # this files show only two basic types Integer and String
 
 print("Hard times"[5])
