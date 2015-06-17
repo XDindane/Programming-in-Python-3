@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 
+
+# usage from terminal: ./csv2html.py < input csv_file > output html_file
+
+
 import sys
 
 def main():
